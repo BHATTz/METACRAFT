@@ -28,7 +28,7 @@ function mintNFT(_NAME, _UID, _BRANCH, _PROFESSION) {
 // and print their metadata with console.log()
 function listNFTs() {
     for (let i = 0; i < NFTs.length; i++) {
-        console.log("\nID: \t\t\t\t" + (i + 1));
+        console.log("\nID: \t\t\t\t" + (i + 1));    //\n: new line, \t: tab;
         console.log("NAME: \t\t\t" + NFTs[i].NAME);
         console.log("UID: \t\t\t\t" + NFTs[i].UID);
         console.log("BRANCH: \t\t" + NFTs[i].BRANCH);
