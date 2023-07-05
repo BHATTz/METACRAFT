@@ -46,5 +46,7 @@ mintNFT("Raj", "5647", "MCA", "STUDENT");
 mintNFT("koty", "2448", "MA", "INTERN");
 mintNFT("Max", "5648", "MSC", "STUDENT");
 mintNFT("TINA", "1238", "MBA", "INTERN");
+mintNFT("Max", "5648", "MSC", "STUDENT");
+mintNFT("TINA", "1238", "MBA", "INTERN");
 listNFTs();
 getTotalSupply();
